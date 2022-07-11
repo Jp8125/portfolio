@@ -1,12 +1,11 @@
 .form{
     background-color: rgb(248, 247, 244);
-    position: relative;
-    left: 500px;
     opacity: 80%;
     padding: 20px;
     width: 300px;
+    display: inline-flex;
     border-radius: 8px;
-    margin: 10px;
+  
 }
 .form:hover{
     box-shadow:8px 8px 8px 8px;
