@@ -1,0 +1,28 @@
+.card{
+    font-family: 'Edu SA Beginner', cursive;
+    display:inline-flex;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 9px;
+    background-color: rgb(235, 242, 248);
+}
+.card:hover{
+    box-shadow: 4px 4px 4px 4px;
+}
+.skilldisplay{
+    display: flex;
+}
+
+.skills{
+    margin-left: 1em;
+    
+}
+.gitlink{
+margin-top: 1em;
+    }
+.container{
+    margin-bottom: 100px;
+    
+}

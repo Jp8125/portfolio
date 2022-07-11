@@ -1,0 +1,22 @@
+
+.card_skill{
+    font-family: 'Edu SA Beginner', cursive;
+    display:inline-flex;
+    width: 200px;
+    height: 60px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 9px;
+    background-color: rgb(158, 186, 210);
+}
+.container-skill{
+    min-height: 100vh;
+    margin: 90px;
+    text-align: center;
+    display: inline-flex;
+}
+
+
+
+
+
