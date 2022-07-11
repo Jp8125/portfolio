@@ -14,6 +14,7 @@ function Contect() {
           <br />
           <label htmlFor="work">message:</label>
           <textarea name="work" id="text1" cols="20" rows="5"></textarea>
+          <br/>
           <input type="button" value="send" />
         </form>
       </div>
